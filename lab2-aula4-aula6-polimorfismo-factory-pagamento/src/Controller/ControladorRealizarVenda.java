@@ -1,4 +1,4 @@
-package Sistema;
+package Controller;
 
 import Modelo.Produto;
 import Modelo.Venda;
