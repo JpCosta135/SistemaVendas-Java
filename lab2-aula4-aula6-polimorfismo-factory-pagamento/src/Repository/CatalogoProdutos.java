@@ -1,4 +1,4 @@
-package Sistema;
+package Repository;
 
 import Modelo.Produto;
 
